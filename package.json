@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/wechaty/webwx-app#readme",
   "dependencies": {
-    "js-beautify": "^1.6.10"
+    "js-beautify": "^1.6.11"
   }
 }
