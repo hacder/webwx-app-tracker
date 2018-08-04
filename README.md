@@ -1,4 +1,7 @@
 # webwx-app-tracker
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Chatie/webwx-app-tracker.svg)](https://greenkeeper.io/)
+
 webwxApp SPA Html &amp; AngularJS Script Tracker for Web Wechat
 
 # Introduction
